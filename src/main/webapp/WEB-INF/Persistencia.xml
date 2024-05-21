@@ -6,7 +6,7 @@
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.url"
-                      value="jdbc:mysql://localhost:3306/test"/>
+                      value="jdbc:mysql://localhost:3306/ClienteDB"/>
             <property name="jakarta.persistence.jdbc.user" value="root"/>
             <property name="jakarta.persistence.jdbc.password" value="admin"/>
             <property name="jakarta.persistence.jdbc.driver"
